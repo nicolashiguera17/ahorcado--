@@ -12,6 +12,7 @@
 💡 La clave está en tu mente.
 
 🛠️ Tecnologías usadas
+
 🌐 HTML
 
 🎨 CSS
