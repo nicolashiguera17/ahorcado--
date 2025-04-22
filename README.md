@@ -1,5 +1,7 @@
 💀🎮 El Ahorcado 🎮💀
+
 ❓¿En qué consiste el juego?
+
 🔤 Elige una letra del abecedario que aparece en pantalla.
 ✅ Si la letra que escoges está en la palabra oculta, se revelará en su posición correspondiente.
 ❌ Si no está... perderás una oportunidad y te acercarás un paso más a la muerte. ☠️
